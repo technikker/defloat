@@ -1,0 +1,2 @@
+
+& "twine" check "$PsScriptRoot/../dist/*"

@@ -1,0 +1,7 @@
+
+*.tmp
+
+/doc/*
+!doc/LICENSE
+
+/pypi/dist
